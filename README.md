@@ -92,6 +92,10 @@
 ## 🎃 反馈 | Feedback
 
 在使用过程中，如遇问题，请仔细阅读 **[文档](https://blazeb2.js.org)** ，或给作者提 **[Issue](https://github.com/rr210/blazeB2/issues)**
+AES:U2FsdGVkX1+DknSKEvVmQzOi4Kk0OJCyqgCDVBva6F1EFBzfbU0mJ3oBKY/sopaW
+rH4vC5NEVQp2gnWv3ixhWXiKQDovYTCsDYMr12BoY0Pcnsq9MuHAtqgBoDKuUxRK
+I5gYbV9tXFvUvSvNmO1SSHgKO2DFbdFrPWHaEGY9dZZkDMP5oEVozc4U65gGSd2T
+
 
 ## 💿 许可 | License
 
